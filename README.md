@@ -1,6 +1,6 @@
-![fetch-md: parse the planet]()
+![fetch-md: get clean loots](https://github.com/mackenziebowes/fetch-md/blob/main/display/FetchMD.png)
 
-# fetch-md: parse the planet!
+# fetch-md: get clean loots
 
 ## What does it do?
 
