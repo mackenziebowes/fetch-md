@@ -4,7 +4,7 @@
 
 ## What does it do?
 
-CLI version of turndown - give it a url of text heavy content like (docker docs)[https://docs.docker.com/engine/network/] and get nice clean markdown for use with local LLMs.
+CLI version of turndown - give it a url of text heavy content like [docker docs](https://docs.docker.com/engine/network/) and get nice clean markdown for use with local LLMs.
 
 ### Outputs
 
